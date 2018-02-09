@@ -1,11 +1,33 @@
 /* Base Styles */
 
-h1 {
-  font-size: 100px;
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
 }
 
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+/* Primary Content Styles */
+
+.camp p {
+  font-size: 21px;
+  color: Gray;
+}
+
+
+/* Header Styles */
 .header h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
