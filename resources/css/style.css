@@ -18,17 +18,9 @@ h2 {
   color: white;
 }
 
-/* Primary Content Styles */
-
-.camp p {
-  font-size: 21px;
-  color: Gray;
-}
-
-
 /* Header Styles */
 .header h1 {
-  font-weight: normal;
+  font-weight: 500;
   font-size: 50px;
   color: white;
   text-align: center;
@@ -37,4 +29,19 @@ h2 {
 .header a {
   color: Aquamarine;
   font-size: 16px;
+}
+
+/* Primary Content Styles */
+
+.camp p {
+  font-size: 21px;
+  color: Gray;
+}
+
+/* Footer Styles */
+
+.footer p {
+  text-align: right;
+  font-size: 21px;
+  color: Gray;
 }
